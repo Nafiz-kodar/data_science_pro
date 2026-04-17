@@ -26,13 +26,13 @@ project/
 
 ├── src/ # Source code
 
-|   ├── ingestion.py
+       ├── ingestion.py
 
-|   ├── preprocessing.py
+       ├── preprocessing.py
 
-|   ├── standardization.py
+       ├── standardization.py
 
-|   └── analysis.py
+       └── analysis.py
 
 ├── .gitignore
 
