@@ -25,9 +25,15 @@ project/
 ├── data/ # Raw and processed datasets
 
 ├── src/ # Source code
-│   ├── ingestion.py
-│   ├── preprocessing.py
-│   ├── standardization.py
-│   └── analysis.py
+
+   ├── ingestion.py
+
+   ├── preprocessing.py
+
+   ├── standardization.py
+
+   └── analysis.py
+
 ├── .gitignore
+
 └── README.md
