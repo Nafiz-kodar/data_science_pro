@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
+sns.set_theme(style="whitegrid")
+sns.set_palette("Set2")
 
 TARGET = "mental_state"
 
