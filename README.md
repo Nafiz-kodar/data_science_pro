@@ -21,7 +21,9 @@
 
 ## 📁 Project Structure
 project/
+
 ├── data/ # Raw and processed datasets
+
 ├── src/ # Source code
 │   ├── ingestion.py
 │   ├── preprocessing.py
