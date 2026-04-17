@@ -7,7 +7,6 @@
 
 - **Preprocessing**
   - Data cleaning (missing values, duplicates)
-  - Feature engineering (if needed)
 
 - **Standardization**
   - Scaling features (e.g., StandardScaler)
